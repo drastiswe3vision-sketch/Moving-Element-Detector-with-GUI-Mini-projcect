@@ -110,8 +110,10 @@ python motion_detector.py
 
 ## 💻 GUI Output
 
-![GUI Screenshot](images/gui.png)
-![Detection Output](images/output.png)
+![output](https://github.com/user-attachments/assets/9f289962-ffda-46bc-994e-c2a902767b47)
+
+![output2](https://github.com/user-attachments/assets/fe330b45-90fb-4571-91f5-5741c50f4942)
+
 
 ---
 
